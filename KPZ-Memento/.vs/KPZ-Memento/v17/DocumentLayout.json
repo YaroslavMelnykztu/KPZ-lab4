@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\consoleapp\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\consoleapp\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\consoleapp\\documentmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\documentmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u04404\\\u043A\u043E\u0434\\kpz-memento\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0CBF2D-D1D2-404C-ACCC-D7C650EE6F83}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\TextEditor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\TextEditor.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\TextEditor.cs",
+              "RelativeToolTip": "ConsoleApp\\TextEditor.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:26:44.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\TextDocument.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\TextDocument.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\TextDocument.cs",
+              "RelativeToolTip": "ConsoleApp\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:26:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentMemento.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\DocumentMemento.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\DocumentMemento.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\DocumentMemento.cs",
+              "RelativeToolTip": "ConsoleApp\\DocumentMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:25:12.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Memento\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:16:25.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
