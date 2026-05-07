@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u04404\\\u043A\u043E\u0434\\kpz-strategy\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\lightelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\lightelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\imageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\imageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\filesystemloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\filesystemloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\networkloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\networkloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\consoleapp\\imageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00674BFD-208D-4F51-BCA5-093B0B356EBF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\imageloadstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightElement.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\LightElement.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\LightElement.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\LightElement.cs",
+              "RelativeToolTip": "ConsoleApp\\LightElement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:02:29.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\LightNode.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\LightNode.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\LightNode.cs",
+              "RelativeToolTip": "ConsoleApp\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:00:57.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageElement.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\ImageElement.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImageElement.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\ImageElement.cs",
+              "RelativeToolTip": "ConsoleApp\\ImageElement.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:56:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileSystemLoadStrategy.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\FileSystemLoadStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\FileSystemLoadStrategy.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\FileSystemLoadStrategy.cs",
+              "RelativeToolTip": "ConsoleApp\\FileSystemLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:56:12.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkLoadStrategy.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\NetworkLoadStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\NetworkLoadStrategy.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\NetworkLoadStrategy.cs",
+              "RelativeToolTip": "ConsoleApp\\NetworkLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:55:43.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageLoadStrategy.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\ImageLoadStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\ImageLoadStrategy.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\ImageLoadStrategy.cs",
+              "RelativeToolTip": "ConsoleApp\\ImageLoadStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:55:20.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2-\u043A\u0443\u0440\u0441-2-(4)-\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u04404\\\u041A\u043E\u0434\\KPZ-Strategy\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T09:37:36.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
